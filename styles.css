@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  background: #ffffff;
+  background: #fff;
   padding: 30px;
   border-radius: 10px;
   text-align: center;
@@ -26,6 +26,7 @@ body {
 #verification_subtext {
   color: #666;
   margin-bottom: 25px;
+  line-height: 1.5;
 }
 
 .code-container {
